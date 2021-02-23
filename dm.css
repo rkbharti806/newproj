@@ -1,0 +1,14 @@
+body,html{
+
+	display: grid;
+	margin: 0px;
+	padding: 0px;
+	background-color: #00ff99;
+}
+
+h1{
+	justify-content: center;
+	margin: 0px ;
+	padding: 10px;
+	background-color: #00eeff;
+}
